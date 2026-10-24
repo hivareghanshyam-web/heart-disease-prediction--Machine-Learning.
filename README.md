@@ -47,4 +47,5 @@ The notebook expects a file named `heart (1).csv` in its working directory and r
 - Add a reproducible environment, saved model and optional demo only after validating the workflow.
 
 ## Author
-Add your name and GitHub profile URL here.
+Ghanshyam Hivare hivareghanshyam@gmail.com
+Linkedin :-www.linkedin.com/in/ghanshyam-hivare45
